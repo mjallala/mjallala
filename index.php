@@ -505,7 +505,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
 				<div class="container">
   		<div class="row">
   			<div class="col-md-6 col-md-offset-3">
-  				<h1 class="page-header text-center">Contact Form Example</h1>
+  				<h1 class="page-header text-center"></h1>
 				<form class="form-horizontal" role="form" method="post" action="index.php">
 					<div class="form-group">
 						<label for="name" class="col-sm-2 control-label">Name</label>
@@ -551,7 +551,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
 	</div>   
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-                <div class="col-sm-4">
+                <div class="col-md-6 col-md-offset-3">
                     <h4>Address:</h4>
                     <address>
                         Mahmoud Jallala<br>
