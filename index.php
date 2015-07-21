@@ -505,7 +505,10 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
 				<div class="container">
   		<div class="row">
   			<div class="col-md-6 col-md-offset-3">
-  				<h1 class="page-header text-center"></h1>
+  				<h2>Let's Keep In Touch!</h2>
+                    <p>Thank you for visiting out my profile. If you would like to get into contact with me, please fill out the form below.</p>
+                
+  			
 				<form class="form-horizontal" role="form" method="post" action="index.php">
 					<div class="form-group">
 						<label for="name" class="col-sm-2 control-label">Name</label>
